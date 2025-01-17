@@ -1,0 +1,10 @@
+Key1: FrD4PpwP0KhjZ0u0dwTMAIpAvD1prSEw2DVfmrgmbGOScqRUCmrbJQQJ99BAACYeBjFXJ3w3AAAFACOGfNLf
+Key2: 96f0pxBBQFOBfykQmMi2Yf71Q0Mj8F7yDTcob0LzBu86Z8hnY3CxJQQJ99BAACYeBjFXJ3w3AAAFACOGsyXS
+Endpoint: https://aiecvlab1.cognitiveservices.azure.com/
+Uris: 
+{
+    "uri": "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-sample-data-files/master/ComputerVision/Images/printed_text.jpg"
+}
+{
+    "uri": "http://jeroen.github.io/images/testocr.png"
+}
